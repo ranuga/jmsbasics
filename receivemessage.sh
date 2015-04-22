@@ -1,0 +1,1 @@
+gradle -PmainClass=com/deethya/tutorials/jms1/consumer execute
